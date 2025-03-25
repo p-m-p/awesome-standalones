@@ -332,7 +332,7 @@
     "url": "https://darn.es/play-button-web-component",
     "script": "npm install @daviddarnes/play-button",
     "snippet": "<play-button><button>Play me</button><audio src='...'></audio></play-button>"
-  }, 
+  },
   {
     "name": "youtube-player",
     "repo": "https://github.com/alanwsmith/youtube-player.alanwsmith.com",
@@ -411,5 +411,13 @@
     "url": "https://slide-deck.netlify.app/",
     "script": "npm install @oddbird/slide-deck",
     "snippet": "<slide-deck><header><h1>This is a slide show</h1></header><div><h2>Each child is a slide</h2></div></slide-deck>"
+  },
+  {
+    "name": "back-to-top",
+    "category": "utilities",
+    "repo": "https://github.com/p-m-p/parsonic",
+    "url": "https://github.com/p-m-p/parsonic/tree/main/packages/back-to-top",
+    "script": "npm install @parsonic/back-to-top",
+    "snippet": "<back-to-top><span slot=\"icon\">👆</span></back-to-top>"
   }
 ]
